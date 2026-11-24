@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="28" fill="#FFF3DC"/>
+  <circle cx="42" cy="46" r="5" fill="#F0B64A"/><circle cx="358" cy="46" r="5" fill="#F0B64A"/>
+  <circle cx="42" cy="354" r="5" fill="#F0B64A"/><circle cx="358" cy="354" r="5" fill="#F0B64A"/>
+  <text x="200" y="52" text-anchor="middle" font-family="Verdana, sans-serif" font-size="19" font-weight="bold" letter-spacing="6" fill="#B4762A">DAILY FEST</text>
+  <ellipse cx="200" cy="212" rx="138" ry="108" fill="#FFFFFF" stroke="#EAD9B8" stroke-width="3"/>
+       <ellipse cx="200" cy="208" rx="106" ry="82" fill="#FDF6E7"/>
+  
+    <rect x="104" y="238" width="192" height="34" rx="10" fill="#C89B6A"/>
+    <rect x="104" y="252" width="192" height="6" fill="#A87C4C"/>
+    <rect x="112" y="196" width="176" height="34" rx="10" fill="#D9B47E"/>
+    <rect x="112" y="210" width="176" height="6" fill="#B98F56"/>
+    <g fill="#FFFFFF" stroke="#E3DCC8" stroke-width="2">
+      <path d="M132 196 a24 18 0 0 1 48 0 Z"/>
+      <path d="M176 196 a24 18 0 0 1 48 0 Z"/>
+      <path d="M220 196 a24 18 0 0 1 48 0 Z"/>
+    </g>
+    <g stroke="#D9C7A0" stroke-width="3" stroke-linecap="round">
+      <line x1="148" y1="182" x2="152" y2="192"/><line x1="160" y1="180" x2="158" y2="192"/>
+      <line x1="192" y1="182" x2="196" y2="192"/><line x1="204" y1="180" x2="202" y2="192"/>
+      <line x1="236" y1="182" x2="240" y2="192"/><line x1="248" y1="180" x2="246" y2="192"/>
+    </g>
+    <circle cx="156" cy="186" r="4" fill="#F08A5D"/><circle cx="200" cy="186" r="4" fill="#F08A5D"/><circle cx="244" cy="186" r="4" fill="#F08A5D"/>
+  <text x="200" y="362" text-anchor="middle" font-family="Verdana, sans-serif" font-size="29" font-weight="bold" fill="#6B3F14">Dim Sum</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="28" fill="#FFF3DC"/>
+  <circle cx="42" cy="46" r="5" fill="#F0B64A"/><circle cx="358" cy="46" r="5" fill="#F0B64A"/>
+  <circle cx="42" cy="354" r="5" fill="#F0B64A"/><circle cx="358" cy="354" r="5" fill="#F0B64A"/>
+  <text x="200" y="52" text-anchor="middle" font-family="Verdana, sans-serif" font-size="19" font-weight="bold" letter-spacing="6" fill="#B4762A">DAILY FEST</text>
+  <ellipse cx="200" cy="212" rx="138" ry="108" fill="#FFFFFF" stroke="#EAD9B8" stroke-width="3"/>
+       <ellipse cx="200" cy="208" rx="106" ry="82" fill="#FDF6E7"/>
+  
+    <g fill="#E0A458">
+      <ellipse cx="200" cy="206" rx="42" ry="56"/>
+      <ellipse cx="146" cy="196" rx="30" ry="46" transform="rotate(24 146 196)"/>
+      <ellipse cx="254" cy="196" rx="30" ry="46" transform="rotate(-24 254 196)"/>
+      <ellipse cx="106" cy="222" rx="20" ry="32" transform="rotate(52 106 222)"/>
+      <ellipse cx="294" cy="222" rx="20" ry="32" transform="rotate(-52 294 222)"/>
+    </g>
+    <g fill="none" stroke="#C07F33" stroke-width="5" stroke-linecap="round">
+      <path d="M176 160 q24 10 48 0"/>
+      <path d="M172 206 q28 12 56 0"/>
+      <path d="M178 250 q22 8 44 0"/>
+      <path d="M132 168 q10 22 6 44"/>
+      <path d="M268 168 q-10 22 -6 44"/>
+    </g>
+    <g fill="#F2C078"><ellipse cx="188" cy="182" rx="10" ry="16"/><ellipse cx="140" cy="190" rx="7" ry="12" transform="rotate(24 140 190)"/></g>
+  <text x="200" y="362" text-anchor="middle" font-family="Verdana, sans-serif" font-size="29" font-weight="bold" fill="#6B3F14">Croissant</text>
+</svg>

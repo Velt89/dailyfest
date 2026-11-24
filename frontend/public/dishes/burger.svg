@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="28" fill="#FFF3DC"/>
+  <circle cx="42" cy="46" r="5" fill="#F0B64A"/><circle cx="358" cy="46" r="5" fill="#F0B64A"/>
+  <circle cx="42" cy="354" r="5" fill="#F0B64A"/><circle cx="358" cy="354" r="5" fill="#F0B64A"/>
+  <text x="200" y="52" text-anchor="middle" font-family="Verdana, sans-serif" font-size="19" font-weight="bold" letter-spacing="6" fill="#B4762A">DAILY FEST</text>
+  <ellipse cx="200" cy="212" rx="138" ry="108" fill="#FFFFFF" stroke="#EAD9B8" stroke-width="3"/>
+       <ellipse cx="200" cy="208" rx="106" ry="82" fill="#FDF6E7"/>
+  
+    <path d="M118 176 A 84 52 0 0 1 282 176 Z" fill="#E8A33D"/>
+    <circle cx="168" cy="140" r="4" fill="#FFF3DC"/><circle cx="204" cy="126" r="4" fill="#FFF3DC"/><circle cx="238" cy="142" r="4" fill="#FFF3DC"/>
+    <path d="M112 190 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q16 12 32 0 q16 -12 32 0 q10 8 16 2 L288 204 L112 204 Z" fill="#5FA84F"/>
+    <path d="M124 208 L276 208 L238 240 L200 218 L162 240 Z" fill="#F5B81E"/>
+    <rect x="116" y="238" width="168" height="24" rx="10" fill="#7A3B1E"/>
+    <path d="M118 268 L282 268 L282 276 A 84 20 0 0 1 118 276 Z" fill="#E8A33D"/>
+  <text x="200" y="362" text-anchor="middle" font-family="Verdana, sans-serif" font-size="29" font-weight="bold" fill="#6B3F14">Burger</text>
+</svg>

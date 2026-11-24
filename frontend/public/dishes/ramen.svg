@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="28" fill="#FFF3DC"/>
+  <circle cx="42" cy="46" r="5" fill="#F0B64A"/><circle cx="358" cy="46" r="5" fill="#F0B64A"/>
+  <circle cx="42" cy="354" r="5" fill="#F0B64A"/><circle cx="358" cy="354" r="5" fill="#F0B64A"/>
+  <text x="200" y="52" text-anchor="middle" font-family="Verdana, sans-serif" font-size="19" font-weight="bold" letter-spacing="6" fill="#B4762A">DAILY FEST</text>
+  <ellipse cx="200" cy="212" rx="138" ry="108" fill="#FFFFFF" stroke="#EAD9B8" stroke-width="3"/>
+       <ellipse cx="200" cy="208" rx="106" ry="82" fill="#FDF6E7"/>
+  
+    <path d="M100 190 L300 190 L282 258 Q200 280 118 258 Z" fill="#B03A3A"/>
+    <rect x="150" y="272" width="100" height="12" rx="6" fill="#8E2B2B"/>
+    <ellipse cx="200" cy="190" rx="100" ry="20" fill="#F7C65C"/>
+    <g fill="none" stroke="#EFA93C" stroke-width="6" stroke-linecap="round">
+      <path d="M140 188 q14 -10 28 0 q14 10 28 0"/>
+      <path d="M196 196 q14 -10 28 0 q14 10 28 0"/>
+      <path d="M158 178 q12 -8 24 0"/>
+    </g>
+    <circle cx="152" cy="182" r="15" fill="#FFFFFF"/>
+    <circle cx="152" cy="182" r="7" fill="#F5B81E"/>
+    <rect x="238" y="162" width="30" height="34" rx="4" fill="#2E4A2E"/>
+    <g stroke="#8A5A33" stroke-width="7" stroke-linecap="round">
+      <line x1="262" y1="98" x2="226" y2="172"/>
+      <line x1="284" y1="106" x2="246" y2="176"/>
+    </g>
+  <text x="200" y="362" text-anchor="middle" font-family="Verdana, sans-serif" font-size="29" font-weight="bold" fill="#6B3F14">Ramen</text>
+</svg>

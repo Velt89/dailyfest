@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="28" fill="#FFF3DC"/>
+  <circle cx="42" cy="46" r="5" fill="#F0B64A"/><circle cx="358" cy="46" r="5" fill="#F0B64A"/>
+  <circle cx="42" cy="354" r="5" fill="#F0B64A"/><circle cx="358" cy="354" r="5" fill="#F0B64A"/>
+  <text x="200" y="52" text-anchor="middle" font-family="Verdana, sans-serif" font-size="19" font-weight="bold" letter-spacing="6" fill="#B4762A">DAILY FEST</text>
+  <ellipse cx="200" cy="212" rx="138" ry="108" fill="#FFFFFF" stroke="#EAD9B8" stroke-width="3"/>
+       <ellipse cx="200" cy="208" rx="106" ry="82" fill="#FDF6E7"/>
+  
+    <ellipse cx="200" cy="222" rx="88" ry="40" fill="#D96F22"/>
+    <ellipse cx="200" cy="212" rx="80" ry="34" fill="#E8862E"/>
+    <g fill="#C75B14">
+      <circle cx="158" cy="206" r="4"/><circle cx="188" cy="196" r="4"/><circle cx="222" cy="204" r="4"/>
+      <circle cx="244" cy="216" r="4"/><circle cx="176" cy="220" r="4"/><circle cx="212" cy="224" r="4"/>
+    </g>
+    <g fill="#D43A2A">
+      <circle cx="168" cy="216" r="5"/><circle cx="232" cy="196" r="5"/><circle cx="200" cy="230" r="5"/>
+    </g>
+    <circle cx="200" cy="188" r="30" fill="#FFFFFF"/>
+    <circle cx="200" cy="188" r="14" fill="#F5B81E"/>
+    <path d="M138 176 q-14 -6 -18 -20 M262 176 q14 -6 18 -20" stroke="#5FA84F" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <text x="200" y="362" text-anchor="middle" font-family="Verdana, sans-serif" font-size="29" font-weight="bold" fill="#6B3F14">Nasi Goreng</text>
+</svg>
